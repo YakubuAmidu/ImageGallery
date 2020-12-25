@@ -33,3 +33,19 @@ body{
   vertical-align: middle;
   width: 100%;
 }
+
+div .img{
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+div .img:hover{
+  box-shadow: 0px 5px 5px 5px;
+  transition: .5s ease-out;
+}
+
+div .description{
+  padding: 15px;
+  text-align: center;
+}
