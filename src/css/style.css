@@ -183,10 +183,7 @@ div .description{
   padding-right: 10px;
   border: 1px solid #eee;
   padding-top: 10px;
-}
-
-.duties-ptwo:hover{
-  transition: .5s ease-out;
+  transition: ease-out;
   box-shadow: 0px 5px 5px 0px;
 }
 
