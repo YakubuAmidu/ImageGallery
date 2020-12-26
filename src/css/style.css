@@ -139,6 +139,7 @@ div .description{
 
 .about-section{
   text-align: center;
+  margin-bottom: 50px;
   padding: 32px;
 }
 
@@ -157,26 +158,17 @@ div .description{
   padding-bottom: 30px;
 }
 
-.about-images{
- display: flex;
- flex-direction: row;
- justify-content: center;
- margin-bottom: 50px;
-}
-
 .profile{
-  width: 500px;
-  margin: 20px;
+  width: 100%;
+  margin-bottom: 20px;
 }
 
 .what{
+  margin-top: 50px;
+  margin-bottom: 50px;
   font-size: 40px;
+  color: #000;
   text-transform: uppercase;
-}
-
-.duties{
-  display: flex;
-  flex-direction: row;
 }
 
 .duties-headline{
@@ -185,7 +177,8 @@ div .description{
 }
 
 .duties-ptwo{
-  margin: 20px;
+  margin-bottom: 20px;
+  margin-right: 5px;
   padding-left: 10px;
   padding-right: 10px;
   border: 1px solid #eee;
@@ -199,4 +192,8 @@ div .description{
 
 .duties-pthree{
   text-align: justify;
+}
+
+.carousel{
+  margin-top: 50px;
 }
