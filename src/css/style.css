@@ -197,3 +197,48 @@ div .description{
 .carousel{
   margin-top: 50px;
 }
+
+.contact-section{
+  text-align: center;
+  padding: 32px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.mail{
+  width: 570px;
+  text-align: center;
+}
+
+form{
+  display: flex;
+  border-radius: 20px;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #eee;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+label{
+  text-align: left;
+  margin-top: 20px;
+}
+
+input{
+  border: 1px solid #eee;
+  padding-left: 10px;
+}
+
+.textarea{
+  border: 1px solid #eee;
+}
+
+.submit{
+  margin-top: 5px;
+  background-color: green;
+}
