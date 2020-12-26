@@ -143,9 +143,60 @@ div .description{
 }
 
 .welcome{
-  max-width: 800px;
+  max-width: 700px;
   margin: 0 auto;
   padding-bottom: 30px;
   color: #000;
   text-transform: uppercase;
+}
+
+.about-p{
+  text-align: justify;
+  max-width: 810px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+.about-images{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ margin-bottom: 50px;
+}
+
+.profile{
+  width: 500px;
+  margin: 20px;
+}
+
+.what{
+  font-size: 40px;
+  text-transform: uppercase;
+}
+
+.duties{
+  display: flex;
+  flex-direction: row;
+}
+
+.duties-headline{
+  text-transform: uppercase;
+  color: #000;
+}
+
+.duties-ptwo{
+  margin: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #eee;
+  padding-top: 10px;
+}
+
+.duties-ptwo:hover{
+  transition: .5s ease-out;
+  box-shadow: 0px 5px 5px 0px;
+}
+
+.duties-pthree{
+  text-align: justify;
 }
