@@ -104,3 +104,28 @@ div .description{
 .fab:hover{
   transform: scale(1.2);
 }
+
+.blog-section{
+  text-align: center;
+  padding: 32px;
+}
+
+.imagethree{
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+.description-title{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-family: 'Tenor Sans', sans-serif;
+  color: green;
+  text-transform: uppercase;
+}
+
+.description-titletwo{
+  color: #000;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
